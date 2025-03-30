@@ -1,0 +1,1 @@
+This is the readme file for this repo where we are now testing out the feature for a pull command. so i will just type something random here and commit my changes later i can open my cloned repo and pull these changes in to have the latest version of the branch 
